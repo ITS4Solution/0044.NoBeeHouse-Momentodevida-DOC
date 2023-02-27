@@ -19,9 +19,9 @@ Instale nobeehouse-momentodevida-plugin com npm:
 ## Instalação por CDN
 
 ```HTML
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nobeehouse-momentodevida-plugin@^1.0.0/dist/nobeehouse.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nobeehouse-momentodevida-plugin@latest/dist/nobeehouse.min.css" />
 
-<script src="https://cdn.jsdelivr.net/npm/nobeehouse-momentodevida-plugin@^1.0.0/dist/nobeehouse.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/nobeehouse-momentodevida-plugin@latest/dist/nobeehouse.min.js"></script>
 ```
 
     
